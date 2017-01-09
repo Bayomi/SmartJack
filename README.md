@@ -6,7 +6,7 @@ Black Jack game online or single-player, using sockets, queues and json manipula
 
 ### Links
 
-[github code](https://github.com/Bayomi/SmartJack/)
+[Github code](https://github.com/Bayomi/SmartJack/)
 
 ### Contact
 
