@@ -2,7 +2,7 @@
 
 ### Description
 
-Black Jack game online or single-player, using sockets, queues and json manipulation libraries for Java.
+A Black Jack game which can be played online or single-player, using sockets, queues and json manipulation libraries for Java.
 
 ### Links
 
